@@ -71,11 +71,5 @@ python main_eva.py --dataName mnist
 **[Notice] Be careful with the saving directories.**
 
 ## Reference
-<pre><code>@misc{guo2022labelingfree,
-      title={Labeling-Free Comparison Testing of Deep Learning Models}, 
-      author={Yuejun Guo and Qiang Hu and Maxime Cordy and Xiaofei Xie and Mike Papadakis and Yves Le Traon},
-      year={2022},
-      eprint={2204.03994},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+<pre><code>
 }</code></pre>
