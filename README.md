@@ -33,7 +33,7 @@ Download the OOD data of Java250 from [Google drive]().
 
 ## Download Pre-trained deep learning models
 
-Download all the models from [Google drive]().
+Download all the models from [Google drive](https://drive.google.com/drive/folders/1NgPgRPZT7xEVLSgnX7-QKTDR31qIKBIM?usp=sharing).
 
 You can also train the models for MNIST and CIFAR-10 by running the scripts in **trainModel/mnist** and **trainModel/cifar10**. 
 
