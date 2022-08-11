@@ -23,13 +23,13 @@ Java250 and C++1000 are taken from [Project CodeNet](https://github.com/IBM/Proj
 
 ###OOD data###
 
-Download the OOD data of MNIST from [Google drive]() or generate it by <pre><code>python gene_mnist.py</code></pre>
+Download the OOD data of MNIST from [Google drive](https://drive.google.com/file/d/1E36adskFDlVXQ-i-pjaVM-33w4GA65Cr/view?usp=sharing) or generate it by <pre><code>python gene_mnist.py</code></pre>
 
-Download the OOD data of CIFAR-10 from [Google drive]() or generate it by <pre><code>python gene_cifar10.py</code></pre>
+Download the OOD data of CIFAR-10 from [Google drive](https://drive.google.com/file/d/1E36adskFDlVXQ-i-pjaVM-33w4GA65Cr/view?usp=sharing) or generate it by <pre><code>python gene_cifar10.py</code></pre>
 
 Download the OOD data of Amazon and iwildCam from [WILDS](https://github.com/p-lambda/wilds).
 
-Download the OOD data of Java250 from [Google drive]().
+Download the OOD data of Java250 from [Google drive](https://drive.google.com/file/d/1E36adskFDlVXQ-i-pjaVM-33w4GA65Cr/view?usp=sharing).
 
 ## Download Pre-trained deep learning models
 
