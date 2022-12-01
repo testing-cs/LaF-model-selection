@@ -14,14 +14,14 @@ Given N pre-trained deep learning models, the task is to estimate the rank of mo
 
 ## Download the dataset
 
-###ID data###
+###ID data
 MNIST, CIFAR-10, and Fashion-MNIST are available in Keras.
 
 Amazon and iwildcam are taken from [WILDS](https://github.com/p-lambda/wilds).
  
 Java250 and C++1000 are taken from [Project CodeNet](https://github.com/IBM/Project_CodeNet).
 
-###OOD data###
+###OOD data
 
 Download the OOD data of MNIST from [Google drive](https://drive.google.com/file/d/1E36adskFDlVXQ-i-pjaVM-33w4GA65Cr/view?usp=sharing) or generate it by <pre><code>python gene_mnist.py</code></pre>
 
