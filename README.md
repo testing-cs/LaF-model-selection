@@ -72,4 +72,12 @@ python main_eva.py --dataName mnist
 
 ## Reference
 <pre><code>
+@misc{https://doi.org/10.48550/arxiv.2204.03994,
+  doi = {10.48550/ARXIV.2204.03994},
+  url = {https://arxiv.org/abs/2204.03994},
+  author = {Guo, Yuejun and Hu, Qiang and Cordy, Maxime and Xie, Xiaofei and Papadakis, Mike and Traon, Yves Le},
+  title = {Labeling-Free Comparison Testing of Deep Learning Models},
+  publisher = {arXiv},
+  year = {2022},
+}
 </code></pre>
